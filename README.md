@@ -7,3 +7,6 @@ February: Valentine's day hats
 March: Saint Patrick's hats
 April: Water hats
 May: Summer break hats (Best time ever!!!!)
+
+# So, what is this GitHub page for then?
+This is the website files. Nothing cool here.
