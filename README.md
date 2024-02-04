@@ -1,3 +1,3 @@
 # That Hat Store
 The hat store
-<iframe src="https://giphy.com/embed/kK073OBlEW0tG4yiIa" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hat-hericane-the-label-kK073OBlEW0tG4yiIa">via GIPHY</a></p>
+![hat](https://github.com/HHHummus/ThatHatStore-Web/assets/152762828/89e948cb-0d57-4f3f-9bf9-3e88124944fc)
